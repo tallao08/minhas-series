@@ -13,3 +13,10 @@ body{
 h1{
     background-color: white;
 }
+
+.cabecalho__menu-hamburguer {
+     width: 24px;
+     height: 24px;
+     display: inline-block; 
+     background-image: url(Menu\ \(1\).svg);
+}
